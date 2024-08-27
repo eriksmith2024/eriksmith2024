@@ -5,5 +5,6 @@
 - 📫 Reach me on my linkedin profile linkedin.com/in/erik-smith-ba-ma-mcipd
 - 😃 Open to work looking for entry level roles working toward being a full stack developer. 
 - 😄 Pronouns: Esteemed Esquire
-- ⚡ Fun fact: I self taught Spanish to a high level of fluency 
+- ⚡ Fun fact: I self taught Spanish to a high level of fluency.
+- I am working on being fluent in 5 languages French Portuguese Hindi & Italian to varying degrees of ability depending on my upcoming holidays.  
 
