@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eriksmith2024
 - 👀 I’m interested in Python, MYSQL, HTML, CSS, JavaScript SQL & Databases and much much  more - mastering the world of coding
 - 📜 I completed a 12 week AI Software Engineering bootcamp with Skills City at the beginning of September 2024.
-- 🚀 I am now doing a full time Web Development course with Imperial College University extending skills in the MERN stack Mongo DB, Express React & Node 
+- 🚀 I topped a full time Web Development course with Imperial College University extending skills in the MERN stack Mongo DB, Express React & Node 
 - 🌱 I self taught jQuery, JSON, Ajax & Angular and plan to follow it up with certifcation on W3 schools.
 - 🔥 I already have completed various 60 hour plus courses on W3schools passing exams at advanced level plus for HTML CSS JavaScript, SQL, MYSQL & Front End Development. 
 - 💞️ I’m looking to collaborate on low level projects to build my profile.
